@@ -4,5 +4,5 @@ A personal collection of algorithmic problems, solutions and data structures imp
 Projects are written in C++ (C++17).
 
 ## Projects
-- `projects/domino` — Dynamic Programming: Domino placement problem (assignment).
-- `projects/second-project` — (to be added)
+- `asd_projects/domino` — Dynamic Programming: Domino placement problem (assignment).
+- `asd_projects/gardens` — Segment Tree.
